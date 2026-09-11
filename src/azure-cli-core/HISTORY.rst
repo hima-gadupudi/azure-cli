@@ -5,6 +5,7 @@ Release History
 
 2.90.0
 ++++++
+* Upgrade MSAL to 1.38.0
 * Minor fixes
 
 2.89.1
